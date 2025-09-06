@@ -4,6 +4,7 @@
 </div>
 
 [![npm](https://img.shields.io/npm/v/defectless.svg)](http://npm.im/defectless)
+[![Coverage Status](https://coveralls.io/repos/github/sapphire-cms/defectless/badge.svg)](https://coveralls.io/github/sapphire-cms/defectless)
 ![npm bundle size](https://img.shields.io/bundlephobia/min/defectless)
 ![npm bundle size](https://img.shields.io/bundlephobia/minzip/defectless)
 
