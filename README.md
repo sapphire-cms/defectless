@@ -5,8 +5,8 @@
 
 [![npm](https://img.shields.io/npm/v/defectless.svg)](http://npm.im/defectless)
 [![Coverage Status](https://coveralls.io/repos/github/sapphire-cms/defectless/badge.svg)](https://coveralls.io/github/sapphire-cms/defectless)
-![npm bundle size](https://img.shields.io/bundlephobia/min/defectless)
-![npm bundle size](https://img.shields.io/bundlephobia/minzip/defectless)
+![Bundle size](https://img.badgesize.io/https://cdn.jsdelivr.net/npm/defectless@latest/dist/index.js.svg?label=size)
+![Minified bundle size](https://img.badgesize.io/https://cdn.jsdelivr.net/npm/defectless@latest/dist/index.min.js.svg?label=minified)
 
 `defectless` is a library for writing safe and predictable programs in Typescript - without surprises,
 silent failures, or hidden bugs.
